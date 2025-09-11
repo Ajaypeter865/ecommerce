@@ -128,7 +128,7 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    font-weight: normal;
+    font-weight: bolder;
     font-style: normal
 }
 
@@ -2866,7 +2866,7 @@ input:focus {
 }
 
 .header-area .main-header .menu-wrapper .main-menu ul li a {
-    font-size: 16px;
+    font-size: 20px;
     font-family: "Josefin Sans", sans-serif;
     color: #141517;
     font-weight: 600;
@@ -3602,13 +3602,13 @@ input:focus {
         padding: .5rem .6rem
     }
 }
-
+/* Hey */
 .popular-items .nav-tabs .nav-item {
-    padding-bottom: 10px;
+    padding-bottom: .5px;
     display: block;
     color: #1b1b1b;
     text-transform: capitalize;
-    font-size: 16px
+    font-size: 20px  
 }
 
 .popular-items .nav-tabs .nav-item.show .nav-link,
